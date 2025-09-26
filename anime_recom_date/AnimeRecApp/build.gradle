@@ -10,8 +10,8 @@ buildscript {
     } // Or your desired Kotlin version
     repositories {
         //google()
-        mavenCentral()
-        gradlePluginPortal()
+        //mavenCentral()
+        //gradlePluginPortal()
     }
     dependencies {
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
